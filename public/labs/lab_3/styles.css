@@ -5,6 +5,7 @@
     padding: 10px;
     display: flex;
     justify-content: center;
+    background-color: bisque;
   }
   
   .carousel {
@@ -41,6 +42,8 @@
   .arrow:focus {
     outline: none;
   }
+
+
   
   .arrow:hover {
     background: #ccc;
