@@ -88,10 +88,3 @@ async function windowActions() {
 }
 
 window.onload = windowActions;
-/*const request = await fetch('/api', {
-      method: 'POST',
-      headers:{
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify({ data: search.value })
-    }); */
